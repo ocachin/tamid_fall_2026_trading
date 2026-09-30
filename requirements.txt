@@ -1,0 +1,8 @@
+xlwings>=0.37
+pandas>=2.2
+numpy>=2.0
+scipy>=1.13
+matplotlib>=3.9
+yfinance>=0.2.65
+requests>=2.32
+openpyxl>=3.1
